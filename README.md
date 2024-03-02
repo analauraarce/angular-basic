@@ -1,6 +1,6 @@
-## Descripción 📑
+## Description 📑
 
-Lorem ipsum dolor, sit amet 
+This is a basic Angular app that allows us to add characters to a list. As an introduction to Angular, this app uses Angular basics.
 
 ## The site is live at 
 https://analauraarce.github.io/angular-basic/
@@ -11,6 +11,9 @@ https://analauraarce.github.io/angular-basic/
 * [alauraarce8@gmail.com](alauraarce8@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/analauraarce/)
 
+## What have I learned with this project? 🙇🏻 
+
+To create Angular projects, to use components and modules, one way data binding, ngIf and ngIf-else, ngModel, @Input, @Output, services and more...
 
 # Bases
 
@@ -39,4 +42,3 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-

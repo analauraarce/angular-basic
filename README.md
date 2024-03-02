@@ -8,8 +8,8 @@ https://analauraarce.github.io/angular-basic/
 ## Autor ✒️
 **Ana Laura Arce**
 
-* [micorreo@midominio.com](alauraarce8@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
+* [alauraarce8@gmail.com](alauraarce8@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/analauraarce/)
 
 
 # Bases

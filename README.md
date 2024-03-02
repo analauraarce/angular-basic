@@ -8,7 +8,7 @@ https://analauraarce.github.io/angular-basic/
 ## Autor ✒️
 **Ana Laura Arce**
 
-* (alauraarce8@gmail.com)
+* alauraarce8@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/analauraarce/)
 
 ## What have I learned with this project? 🙇🏻 

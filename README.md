@@ -1,6 +1,6 @@
 ## Description 📑
 
-This is a basic Angular app that allows us to add characters to a list. As an introduction to Angular, this app uses Angular basics.
+This is a basic Angular application that allows us to add characters to a list. As an introduction to Angular, this application uses Angular basics.
 
 ## The site is live at 
 https://analauraarce.github.io/angular-basic/

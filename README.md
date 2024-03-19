@@ -5,7 +5,7 @@ This is a basic Angular app that allows us to add characters to a list. As an in
 ## The site is live at 
 https://analauraarce.github.io/angular-basic/
 
-## Autor ✒️
+## Author ✒️
 **Ana Laura Arce**
 
 * alauraarce8@gmail.com

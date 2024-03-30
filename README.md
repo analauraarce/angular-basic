@@ -15,7 +15,7 @@ https://analauraarce.github.io/angular-basic/
 
 To create Angular projects, to use components and modules, one way data binding, ngIf and ngIf-else, ngModel, @Input, @Output, services and more...
 
-# Bases
+## Angular-basic
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
 

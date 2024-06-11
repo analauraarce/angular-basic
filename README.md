@@ -13,7 +13,7 @@ https://analauraarce.github.io/angular-basic/
 
 ## What have I learned with this project? 🙇🏻 
 
-To create Angular projects, to use components and modules, one way data binding, ngIf and ngIf-else, ngModel, @Input, @Output, services and more...
+How to create Angular projects, how to use components and modules, one way data binding, ngIf and ngIf-else, ngModel, @Input, @Output, services and more...
 
 ## Angular-basic
 
